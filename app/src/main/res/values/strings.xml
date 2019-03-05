@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Neo4gApp</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="today_date">Visit Date</string>
+</resources>
