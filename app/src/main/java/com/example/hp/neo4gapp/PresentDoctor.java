@@ -21,7 +21,8 @@ import java.io.InputStreamReader;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-//AFTER GIT STASH
+//LISTS THE DOCTORS PRESENT
+//IT EXTENDS APP COMPAT ACTIVITY
 public class PresentDoctor extends AppCompatActivity {
     private EditText disease;
     ListView listView;
