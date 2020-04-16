@@ -15,6 +15,7 @@ import java.io.InputStreamReader;
 import java.net.ServerSocket;
 import java.net.Socket;
 
+//GIT MODIFICATION
 public class AppointmentVisit extends AppCompatActivity {
     private TextView welcome;
     private Button appointment, visit, logout;
